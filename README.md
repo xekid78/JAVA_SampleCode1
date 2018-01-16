@@ -1,4 +1,4 @@
-# JAVA_SampleCode1
+# Java_SampleCode1
 サイコロの目をランダムに出力
 
 #### 処理
